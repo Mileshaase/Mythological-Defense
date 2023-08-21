@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SceneManager
+  - Enemy
+  - EnemyHealthCanvas
+  - Manager
+  - GameUI
+  - Sword
+  - Skeleton
+  - HideSkeleton
+  - HideWave
+  - HideLightning
+  - Spawn
+  - Spawns
+  - SwordIcons
+  - textMesh
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - enemy
+  - Water
+  - UI
+  - wave
+  - player
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3081806509
+    locked: 0
+  - name: Enviroment
+    uniqueID: 4245769085
+    locked: 0
+  - name: Player
+    uniqueID: 1182686131
+    locked: 0
+  - name: Lights
+    uniqueID: 419179907
+    locked: 0
+  - name: Vegetation
+    uniqueID: 4176447919
+    locked: 0
+  - name: Buildings
+    uniqueID: 1194454215
+    locked: 0
+  - name: Overlay
+    uniqueID: 1709694821
+    locked: 0
+  - name: UI
+    uniqueID: 4206906591
+    locked: 0

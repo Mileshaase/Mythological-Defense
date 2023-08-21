@@ -1,0 +1,1 @@
+[NAME=Maiden][SPEAKERSPRITE=Invis] You must be our savior, sent from the gods!

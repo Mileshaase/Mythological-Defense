@@ -1,0 +1,8 @@
+[NAME=OldMan][SPEAKERSPRITE=OldMan] Oh no ...
+[NAME=OldMan][SPEAKERSPRITE=OldMan] The Spartans are here.
+[NAME=OldMan][SPEAKERSPRITE=OldMan] I hope you're prepared.
+[NAME=OldMan][SPEAKERSPRITE=OldMan] As soon as you leave the kingdom through the gate, the spartans will begin their attack.
+[NAME=OldMan][SPEAKERSPRITE=OldMan] At the end of each wave, should you survive, you'll be brought back here to upgrade your weapons and prepare for the next wave.
+[NAME=OldMan][SPEAKERSPRITE=OldMan] When you return, you should check with me and the blacksmith, we might have things for you.
+[NAME=OldMan][SPEAKERSPRITE=OldMan] Oh and I almost forgot to mention, your shoes are nice and if you press the spacebar, you can dash.
+[NAME=OldMan][SPEAKERSPRITE=OldMan] Use this to avoid the enemies.

@@ -1,0 +1,6 @@
+[NAME=Zeus][SPEAKERSPRITE=Zeus] WELCOME WORTHY WARRIOR, TO OLYMPUs!
+[NAME=Zeus][SPEAKERSPRITE=Zeus] My kingdom in the sky.
+[NAME=Zeus][SPEAKERSPRITE=Zeus] I am Zeus, Lord of the Sky and King of the Gods.
+[NAME=Zeus][SPEAKERSPRITE=Zeus] The kingdom you are protecting is in my favor.
+[NAME=Zeus][SPEAKERSPRITE=Zeus] Thus, I will grant you one gift.
+[NAME=Zeus][SPEAKERSPRITE=Zeus] When you are in combat, call upon me and I will smite your enemies with lightning.

@@ -1,0 +1,9 @@
+[NAME=Hades][SPEAKERSPRITE=Hades] Oh, hello "hero"!
+[NAME=Hades][SPEAKERSPRITE=Hades] Welcome to the Underworld. I am Hades, Lord of the Dead, but you obviously knew that already.
+[NAME=Hades][SPEAKERSPRITE=Hades] You've done me a great favor, killing all of those spartans and adding to my army of the dead.
+[NAME=Hades][SPEAKERSPRITE=Hades] ...
+[NAME=Hades][SPEAKERSPRITE=Hades] You haven't backed away in fear?
+[NAME=Hades][SPEAKERSPRITE=Hades] You must be one brave soldier. I've known many brave soliders, but everyone fears death.
+[NAME=Hades][SPEAKERSPRITE=Hades] Thus, I will grant you one gift.
+[NAME=Hades][SPEAKERSPRITE=Hades] When you are in combat, call upon me and I will raise 4 skeletal soldiers to fight for you.
+[NAME=Hades][SPEAKERSPRITE=Hades] Go now, and I won't change my mind and give Cerberous a new snack.

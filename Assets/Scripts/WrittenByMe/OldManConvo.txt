@@ -1,0 +1,7 @@
+[NAME=???][SPEAKERSPRITE=OldMan] Are you alright, boy?
+[NAME=You][SPEAKERSPRITE=Player] ...
+[NAME=OldMan][SPEAKERSPRITE=OldMan] Can you talk, boy?
+[NAME=OldMan][SPEAKERSPRITE=OldMan] Did you hit your head?
+[NAME=OldMan][SPEAKERSPRITE=OldMan] You must be our gift from the gods!
+[NAME=OldMan][SPEAKERSPRITE=OldMan] It was prophesized that a man with amnesia would wake up on our beaches and help protect us from the Spartans!
+[NAME=OldMan][SPEAKERSPRITE=OldMan] Follow me, I'll take you to our armory.

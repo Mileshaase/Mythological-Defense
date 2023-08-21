@@ -1,0 +1,3 @@
+[NAME=OldMan][SPEAKERSPRITE=OldMan] You're gonna need to learn to fight, boy.
+[NAME=OldMan][SPEAKERSPRITE=OldMan] The armory should have given you a sword.
+[NAME=OldMan][SPEAKERSPRITE=OldMan] Learn to use it.

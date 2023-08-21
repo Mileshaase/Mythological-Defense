@@ -1,0 +1,5 @@
+[NAME=Poseidon][SPEAKERSPRITE=Poseidon] WELCOME HERO!
+[NAME=Poseidon][SPEAKERSPRITE=Poseidon] I have brought you to my kingdom under the sea, for I am Poseidon, Earthshaker, God of the Sea.
+[NAME=Poseidon][SPEAKERSPRITE=Poseidon] I value your strength, young hero.
+[NAME=Poseidon][SPEAKERSPRITE=Poseidon] Thus, I will grant you one gift.
+[NAME=Poseidon][SPEAKERSPRITE=Poseidon] When you are in combat, call upon me and I will shake the earth, and summon a wave to push your enemies away from you.

@@ -1,0 +1,1 @@
+[NAME=Woodsman][SPEAKERSPRITE=Invis] You should get inside the kingdom, it'll be dark soon and thats when the Spartans attack!

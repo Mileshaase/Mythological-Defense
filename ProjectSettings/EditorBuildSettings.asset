@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 92453cd6bed7b8c4da7835c9b893da5b
+  - enabled: 1
+    path: Assets/Scenes/CreditScene.unity
+    guid: 49b17829216f1db41809f5457beb913d
+  - enabled: 1
+    path: Assets/Scenes/OpeningScene.unity
+    guid: 7db15bb29ff246e4fb1e4e36af4dbbb8
+  - enabled: 1
+    path: Assets/Scenes/GameScene1.unity
+    guid: f169944bf92be8f4f9571a21c993424d
+  - enabled: 1
+    path: Assets/Scenes/DeathScene.unity
+    guid: 70b7501fca677a94586dd0c04d1f4137
+  - enabled: 1
+    path: Assets/Scenes/GodEncounter1.unity
+    guid: 910c6baef10f7a54ab1c7af078559147
+  - enabled: 1
+    path: Assets/Scenes/GodEncounter2.unity
+    guid: 20307f6c7fa9d834693e8f019d238225
+  - enabled: 1
+    path: Assets/Scenes/GodEncounter3.unity
+    guid: 333bffb0076468147ac402f8dab967f2
+  - enabled: 1
+    path: Assets/Scenes/GameScene2.unity
+    guid: 03e21417a534df949b4135b1dd0dd810
+  - enabled: 1
+    path: Assets/Scenes/GameScene3.unity
+    guid: ee7356bf1ae3099499d7134f48c89ded
+  - enabled: 1
+    path: Assets/Scenes/GameScene4.unity
+    guid: a69192f8db085274aa1490a55f1e944e
+  m_configObjects: {}
